@@ -1,2 +1,3 @@
 # feature-flow-demo
-Repository to demonstrate a feature branch and pull request workflow
+
+Updated README for the pull request workflow demo.
